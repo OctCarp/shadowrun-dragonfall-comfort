@@ -1,0 +1,11 @@
+/artifacts/
+/deps/
+tests/
+*.dll
+*.exe
+*.zip
+*.log
+*.pdb
+.vs/
+.vscode/
+/verify.ps1
